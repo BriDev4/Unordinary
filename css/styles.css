@@ -1,0 +1,48 @@
+@charset "UFT-8";
+
+body {
+    text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+    background: url(../assets/imagen.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+#carouselExampleFade {
+    width: 500px;
+    height: 700px;
+    left: 50px; 
+}
+
+#p1{
+    width: 1000px;
+    height: 700px;
+    position: absolute;
+    left: 210px;
+    top: 10px;
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+}
+
+#p2{
+    width: 1000px;
+    height: 500px;
+    position: absolute;
+    top: 370px;
+    right: 185px;
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#p3{
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    text-align: left;
+    top: 250px;
+    left: 470px;
+    font-family: Georgia, 'Times New Roman', Times, serif;    
+}
+.container-fluid{
+    color: floralwhite;
+    background-color: rgb(144, 177, 151);
+    opacity: initial;
